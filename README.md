@@ -6,7 +6,7 @@
 
 > This theme will make you 100% focused and boost your productivity significantly!
 
-**Install it** from [marketplace](https://marketplace.visualstudio.com/items?itemName=YasinBr.focus-theme)!
+**Install it** from [marketplace](https://marketplace.visualstudio.com/items?itemName=YasinBr.focus-theme)
 
 
 
@@ -18,5 +18,5 @@ Sample:
 Author: Yasin Br
 based on [Dracula Official](https://github.com/dracula/visual-studio-code)
 
-**Enjoy!**
+**Enjoy**
 
