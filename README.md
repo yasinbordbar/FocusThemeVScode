@@ -6,7 +6,7 @@
 
 > This theme will make you 100% focused and boost your productivity significantly!
 
-**Install it** from [marketplace](https://marketplace.visualstudio.com/items?itemName=YasinBr.focus-theme)
+**Install it** from the [marketplace](https://marketplace.visualstudio.com/items?itemName=YasinBr.focus-theme)
 
 
 
