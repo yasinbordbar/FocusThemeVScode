@@ -4,7 +4,7 @@
   <img alt="Dracula Focus" src="./images/Dracula_focus.png"  width="200" />
 </p>
 
-> This theme will make you 100% focused and boost your productivity significantly!
+> This theme will make you 100% focused and boosts your productivity significantly!
 
 **Install it** from the [marketplace](https://marketplace.visualstudio.com/items?itemName=YasinBr.focus-theme)
 
